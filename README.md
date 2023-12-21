@@ -1,10 +1,10 @@
 # Retail-hypermarket-analysis
 
 ## Table of Content
-1. [Dataset](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/blob/main/README.md#dataset)
-2. [Problem Statement](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/blob/main/README.md#problem-statement)
-3. [Analysis](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/blob/main/README.md#analysis)
-4. [Recommendations](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/blob/main/README.md#recommendations)
+1. [Dataset](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/tree/main#dataset)
+2. [Problem Statement](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/tree/main#problem-statement)
+3. [Analysis](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/tree/main#analysis)
+4. [Recommendations](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/tree/main#recommendations)
 
 ## Dataset
 The dataset consists of information about operations of a renowed Retail Company in Brazil and specifically 1,00,000 orders placed between 2016 & 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews. The data is spread across multiple CSVs which are as following:
