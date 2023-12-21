@@ -25,7 +25,7 @@ The schema of the database looks as following:
 Task is to analyse data from various sources, extract valuable insights by looking at it combinedly & then provide actionable recommendations to improve the operations.
 
 ## Analysis
-I used Google BigQuery data-warehouse to store & analyse data using [SQL queries](). I also created a [Tableau Dashboard](https://public.tableau.com/app/profile/rahul2575/viz/Retailanalysis_16790631662820/Timedashboard) to visualize the important insights in form of charts.
+I used Google BigQuery data-warehouse to store & analyse data using [SQL queries](https://github.com/dataexplorerRahul/Retail-hypermarket-analysis/blob/main/SQL-Queries.md). I also created a [Tableau Dashboard](https://public.tableau.com/app/profile/rahul2575/viz/Retailanalysis_16790631662820/Timedashboard) to visualize the important insights in form of charts.
 
 Here are snippets of the some queries & their visualizations:
 ### What time do Brazilian customers tend to buy (Dawn, Morning, Afternoon or Night)?
